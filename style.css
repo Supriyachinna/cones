@@ -263,7 +263,7 @@ input::placeholder{
   }
   .line{
     margin-left: 2%;
-    width: 300px;
+    width: 310px;
     height: 3px;
     background-color: rgb(209, 206, 206);
     
@@ -273,7 +273,7 @@ input::placeholder{
   .list{
     width: 200px;
     text-align: center;
-   padding: 0%;
+    padding: 0%;
     display: inline-block;
     align-items: center;
     margin-top: 2%;
@@ -310,7 +310,7 @@ input::placeholder{
 }
 .line2{
     margin-left: 2%;
-    width: 300px;
+    width: 320px;
     height: 3px;
     background-color: rgb(209, 206, 206);
     
