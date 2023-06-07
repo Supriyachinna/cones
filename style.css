@@ -282,9 +282,11 @@ input::placeholder{
   .waffle{
     margin-top: 2%;
     display: flex;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     margin-bottom: 2%;
+    margin-left: 3%;
   }
     
 .menu{
@@ -308,14 +310,43 @@ input::placeholder{
     text-transform: uppercase;
     font-size: 17px;
 }
-.line2{
-    margin-left: 2%;
-    width: 320px;
-    height: 3px;
-    background-color: rgb(209, 206, 206);
-    
-    border-radius: 50px;
 
+.treats{
+    width: 100%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 2%;
+    text-align: center;
+    font-family: title-font;
+    width: 200px;
+    text-align: center;
+    padding: 0%;
+    display: inline-block;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+    .catchers{
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-bottom: 2%;
+        text-align: center;
+        font-family: title-font;
+        width: 200px;
+    text-align: center;
+    padding: 0%;
+    display: inline-block;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    }
 }
 
-}
+
