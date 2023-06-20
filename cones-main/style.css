@@ -281,7 +281,7 @@ input::placeholder{
     border-radius: 50px;
   }
   .list{
-    width: 180px;
+    width: 255px;
     text-align: center;
     padding: 0%;
     display: inline-block;
@@ -298,6 +298,8 @@ input::placeholder{
     margin-bottom: 2%;
     margin-left: 3%;
   }
+
+
     
 .menu{
     float:none;
