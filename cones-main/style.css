@@ -263,7 +263,7 @@ input::placeholder{
   }
   .line{
     position: relative;
-    margin-left: 4%;
+    margin-left: -159%;
     width: 930px;
     height: 3px;
     background-color: rgb(209, 206, 206);
@@ -361,7 +361,7 @@ input::placeholder{
     }
 
     .contact{
-        margin-left: 100%;
+        margin: 100%;
         width: 45%;
         margin-top: 2%;
         display: flex;
