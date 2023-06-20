@@ -263,8 +263,8 @@ input::placeholder{
   }
   .line{
     position: relative;
-    margin-left: -9%;
-    width: 637px;
+    margin-left: 4%;
+    width: 930px;
     height: 3px;
     background-color: rgb(209, 206, 206);
     
