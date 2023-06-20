@@ -362,7 +362,7 @@ input::placeholder{
 
     .contact{
         margin: 100%;
-        width: 45%;
+        width: 50%;
         margin-top: 2%;
         display: flex;
         justify-content: space-evenly;
@@ -373,6 +373,14 @@ input::placeholder{
         font-family: title-font;
         border: 3px solid black;
         border-radius: 5px;
+    }
+    .gallery-title{
+        text-align: center;
+        font-family: title-font;
+        text-transform: uppercase;
+        font-size: 30px;
+        margin-left: 5%;
+        padding: 15px;
     }
 }
 
